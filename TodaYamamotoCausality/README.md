@@ -1,2 +1,3 @@
-## TimeSeriesAnalysis
-### In this file, you can find my works on time series analysis.
+## Toda-Yamamoto Causality Test
+### References
+#### Toda H.Y., Yamamoto T.; "Statistical Inference in Vector Autoregression With Possibly Integrated Process", Journal of Econometrics 1995.
